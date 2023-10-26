@@ -1,0 +1,23 @@
+Essential Terminal Commands-As fast as possible --https://github.com/3rfaan/courses/tree/main/Terminal-Bash
+GIT BASH
+pwd
+cd = dẫn đến thư mục vd : lệnh cd Destop
+cd.. xóa bớt đi 1 đường dẫn đến thư mục
+clear xóa hết
+ls - list view các thư mục folder trong Desktop
+ls - a : hiện cả thư mục ẩn
+ls -l : xem các ngày thông tin các ứng dụng đã cài đặt
+mkdir : make directory - create new emty directory- tạo một thư mục mới
+touch : tạo 1 tệp trống mớii
+mv : di chuển file thư mục, đổi tên thư mục
+cp : copy 1 thư mực hoặc file
+cp -r ..<name file>
+rm <tên file> : remove - xóa file
+rm -r <tên thư mục> : xóa thư mục
+sudo : super user do - trên window kh chạy đc- chỉ có tác dụng trên linux vs MacOS
+cat : kết nối tệp này vs nội dung của tệp khác
+head : xem được 10 dòng
+tail : chi tiết
+grep : tìm kiếm từ trong văn bản file, cú pháp grep " từ cần kiếmm" + tên file
+find : tìm kiếm tệp hoặc thư mục trong một vị trí cụ thể
+cú pháp find tên thư mục/ -name *.đuôi file cần tìm
